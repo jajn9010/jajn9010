@@ -43,11 +43,9 @@
   
   <h3 align="center">✨ About me ✨ </h3>
 <p align="center" float="left">
-
-<a href="https://ye-ryung.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link="/></a>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaejinLee&show_icons=true&theme=tokyonight) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaejinLee&layout=compact&theme=tokyonight)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajn9010&show_icons=true&theme=tokyonight) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jajn9010&layout=compact&theme=tokyonight)
   
 <!---
 jaejinLee/jaejinLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
