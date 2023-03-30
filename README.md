@@ -44,7 +44,7 @@
   <h3 align="center">✨ About me ✨ </h3>
 <p align="center" float="left">
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajn9010&show_icons=true&theme=tokyonight) 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajn9010&show_icons=true&count_private=true&theme=tokyonight) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jajn9010&layout=compact&theme=tokyonight)
   
 <!---
