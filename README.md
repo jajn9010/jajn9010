@@ -43,7 +43,7 @@
   
   <h3 align="center">✨ About me ✨ </h3>
 <p align="center" float="left">
- [![Solved.ac
+ ![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jajn9010)](https://solved.ac/jajn9010)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajn9010&show_icons=true&count_private=true&theme=tokyonight) 
