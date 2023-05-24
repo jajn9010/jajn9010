@@ -44,9 +44,10 @@
   <h3 align="center">✨ About me ✨ </h3>
 <p align="center" float="left">
  
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jajn9010)](https://solved.ac/jajn9010)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajn9010&show_icons=true&count_private=true&theme=tokyonight) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jajn9010&layout=compact&theme=tokyonight)
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jajn9010)](https://solved.ac/jajn9010)
+ 
   
 <!---
 jaejinLee/jaejinLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
